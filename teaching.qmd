@@ -1,0 +1,14 @@
+---
+title: "Teaching"
+subtitle: "Recently taught courses at Oregon Health & Science University."
+format: 
+  html:
+    listing: 
+      contents: teachings
+      type: grid
+      fields: [title, image, description]
+      image-height: "280px"
+      grid-columns: 3
+---
+
+Click on each for more details and course websites: 

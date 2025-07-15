@@ -1,0 +1,10 @@
+---
+title: "Books to help understand your students"
+description: "here is a description of the dataset!!"
+date: "10/3/2023"
+date-modified: "10/3/2023"
+author: "Nicky Wakim"
+categories: ["books"]
+---
+
+In the course of my first year teaching, I have found a few books to be helpful as I try to 

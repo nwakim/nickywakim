@@ -1,0 +1,32 @@
+---
+title: "Books that help with Pedagogy for (Bio)statisticians"
+description: "here is a description of the dataset!!"
+date: "10/3/2023"
+date-modified: "10/3/2023"
+author: "Nicky Wakim"
+categories: ["books"]
+---
+
+In the course of my first year teaching, I have found a few books to be helpful as I try to develop my pedagogy philosophy and learn from great teaching (bio)statisticians. This is not a unique list. There are plenty of universities with Teaching and LEarning Centers that publish list of books to read. For example, see [University of Colorado: Boulder's list](https://www.colorado.edu/center/teaching-learning/teaching-resources/books-we-recommend).
+
+This is a compilation of book recommendations that I received from more experienced teaching statisticians. The books I list specifically spoke to me, a half-white half-Arab cis woman. This list is separate from my list of books to read to help you understand your students.
+
+I'd like to present a living list of books that inspired, taught, and enlightened me.
+
+## Books I've Read and Like
+
+### *Learning and Teaching While White* by Elizabeth Denevi and Jenna Chandler-Ward
+
+### *UNgrading* by Susan D. Blum
+
+## Books I'm Looking Forward to Reading
+
+### *Grading for Equity* by Joe Feldman
+
+### *Flipped Learning* by Robert Talbert
+
+### *Teach Students How to Learn* by Stephanie and Saundra McGuire
+
+### ***Small Teaching*** **by James M. Lang**
+
+## Books I Just Heard about at a Conference

@@ -1,0 +1,16 @@
+---
+title: "Research"
+toc: false
+---
+
+## Research Interests
+
+### Pragmatic Trials
+
+### Wearable Device Data
+
+### (Bio)statistics education
+
+## Publications
+
+Please see my [Google Scholar page](https://scholar.google.com/citations?user=3pA9LmIAAAAJ&hl=en) or [my CV](cv.qmd) for a complete and updated list of my published work.

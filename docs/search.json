@@ -1,0 +1,261 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nicky Wakim, PhD",
+    "section": "",
+    "text": "Nicky Wakim, PhD\nPronounced: Nik-EE Wah-KEEM\nBiostatistician, teacher, and hobby collector\n                         \nPronouns: she/her\n\n\n\n\n\n\nI am currently working as an Assistant Profess of Biostatistics at the OHSU-PSU School of Public Health.\nI strive to educate future biostatisticians and data scientists in responsible and thoughtful practice. Most of my time is spent developing, improving, and teaching graduate-level biostatistics courses at OHSU. I create content in the classroom to improve accessibility for all students.\nI work on research involving pragmatic trials, wearable device data, and statistics education. I currently develop study designs for pragmatic trials, often in partnership with the Oregon Rural Practice-based Research Network (ORPRN). My current project in wearable devices includes a statistical approach to deciding on the most appropriate time window for summarizing high-frequency data. My current statistics education project involves trauma- and resilience-informed practice guidelines."
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\nPlease see my Google Scholar page or my CV for a complete and updated list of my published work."
+  },
+  {
+    "objectID": "teachings/EPI_525.html",
+    "href": "teachings/EPI_525.html",
+    "title": "Biostatistics 1",
+    "section": "",
+    "text": "Fall 2025 Fall 2024\nThis course covers a broad range of basic statistical methods used in the health sciences. We will start with a review of descriptive statistics and introductory probability, then explore probability and sampling distributions, central limit theorem, and confidence intervals. These topics will be followed by basic hypothesis testing framework, along with the appropriate power and sample size considerations. We will also cover large-sample hypothesis tests for means, proportions and variances, and some exact tests. Students will be introduced to one-way analysis of variance (ANOVA), correlation and simple linear regression in preparation for BSTA 512/612. Most homework assignments are to be completed using R."
+  },
+  {
+    "objectID": "teachings/BSTA_512.html",
+    "href": "teachings/BSTA_512.html",
+    "title": "Linear Models",
+    "section": "",
+    "text": "Winter 2025 Winter 2024\nIn this course, we will focus on linear models, and build our understanding of regression analysis. We will build some theoretical understanding in order to interpret and apply regression models appropriately. We will learn how to build a regression model, interpret the model, and diagnose potential issues with our model."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Unable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "blog/Books_pedagogy.html",
+    "href": "blog/Books_pedagogy.html",
+    "title": "Books that help with Pedagogy for (Bio)statisticians",
+    "section": "",
+    "text": "In the course of my first year teaching, I have found a few books to be helpful as I try to develop my pedagogy philosophy and learn from great teaching (bio)statisticians. This is not a unique list. There are plenty of universities with Teaching and LEarning Centers that publish list of books to read. For example, see University of Colorado: Boulder’s list.\nThis is a compilation of book recommendations that I received from more experienced teaching statisticians. The books I list specifically spoke to me, a half-white half-Arab cis woman. This list is separate from my list of books to read to help you understand your students.\nI’d like to present a living list of books that inspired, taught, and enlightened me."
+  },
+  {
+    "objectID": "blog/Books_pedagogy.html#books-ive-read-and-like",
+    "href": "blog/Books_pedagogy.html#books-ive-read-and-like",
+    "title": "Books that help with Pedagogy for (Bio)statisticians",
+    "section": "Books I’ve Read and Like",
+    "text": "Books I’ve Read and Like\n\nLearning and Teaching While White by Elizabeth Denevi and Jenna Chandler-Ward\n\n\nUNgrading by Susan D. Blum"
+  },
+  {
+    "objectID": "blog/Books_pedagogy.html#books-im-looking-forward-to-reading",
+    "href": "blog/Books_pedagogy.html#books-im-looking-forward-to-reading",
+    "title": "Books that help with Pedagogy for (Bio)statisticians",
+    "section": "Books I’m Looking Forward to Reading",
+    "text": "Books I’m Looking Forward to Reading\n\nGrading for Equity by Joe Feldman\n\n\nFlipped Learning by Robert Talbert\n\n\nTeach Students How to Learn by Stephanie and Saundra McGuire\n\n\nSmall Teaching by James M. Lang"
+  },
+  {
+    "objectID": "blog/Books_pedagogy.html#books-i-just-heard-about-at-a-conference",
+    "href": "blog/Books_pedagogy.html#books-i-just-heard-about-at-a-conference",
+    "title": "Books that help with Pedagogy for (Bio)statisticians",
+    "section": "Books I Just Heard about at a Conference",
+    "text": "Books I Just Heard about at a Conference"
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html",
+    "href": "datasets/anti_fat_bias_2023.09.12.html",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "",
+    "text": "!!TRIGGER WARNING!!\n\n\n\nThis page discusses anti-fat bias. There are articles and datasets referenced that may include triggering words referring to fat people.\nI use the term “fat people” as a neutral term to identify people who have larger bodies.\nI have chosen to use this term based on preferences voiced by fat public figures in the media. Please know that I bring my own bias to the media that I consume.\nData used in my classroom were from the 2021 dataset.\nThis dataset and framed analysis is heavily derived from a publication on implicit and explicit anti-fat bias (Elran-Barak and Bar-Anan 2018). Dr. Elran-Barak and Dr. Bar-Anon approach the data with several social theoretical models and with discussion on statistical considerations and consequences. When appropriate, I will include direct quotes from the publication."
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html#abstract",
+    "href": "datasets/anti_fat_bias_2023.09.12.html#abstract",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "Abstract",
+    "text": "Abstract\nAnti-fat bias stems from specific attitudes and beliefs that stigmatize fat people as less than their thinner alternatives. Often, the bias comes from specific beliefs that weight is inherently something that can be controlled, that fat people use more resources, or that they are lazy. Thus leading to a preference for thin people over fat people. In Project Implicit’s research, implicit association tests (IAT) measure the level of stereotype and preference from one demographic group over another. In their Weight IAT dataset, the implicit bias preferring thin people over fat people is measured. The primary outcome is the IAT score, which is a calculated score using Project Implicit’s D600 algorithm, measuring the implicit bias through the response time (Greenwald, Nosek, and Banaji 2003). Predictor variables include demographic variables (age, race, education, gender, and BMI) and social views (including self-perception of weight, controllability of weight, awareness of social standards, and internalization of societal standards). The raw data sample includes \\(n=??\\) participants and a total of \\(??\\) variables.\n\nBasic info\n\n\n\n\n\n\n\nStudy Design\nTopic\n\n\n\n\nSurvey??\nWhat weight-related attitudes and beliefs contribute to implicit anti-fat bias?\n\n\n\nIt is important to note that the dataset is a convenience sample. Participants are not randomly selected, but self-selected. “Recruitment occurred via media coverage, links from other sites, links provided by search engines, and word-of-mouth” (Greenwald, Nosek, and Banaji 2003). From there, participants could choose to visit the cite and participate. This means “respondent samples for this research cannot be treated as representative of any definable population.” (Greenwald, Nosek, and Banaji 2003) Also, there is no control for multiple participation. Thus, an individual can participate in the study multiple times leading to observations that are not independent. “However, the overall large number of respondents reduces the potential impact of this problem – few, if any, single respondents could plausibly have provided as much as 0.1% (e.g., 10 in 10,000 observations) of any of the data sets.” (Greenwald, Nosek, and Banaji 2003)\n\n\n\n\n\n\n\n\nClasses/Course Content\nSpecific statistical topics\nSpecific social implications topics\n\n\n\n\nDescriptive statistics\n\n\n\n\nBasic Inference\n\n\n\n\nLinear Regression\nMissingness\nIssues with independence"
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html#contributor",
+    "href": "datasets/anti_fat_bias_2023.09.12.html#contributor",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "Contributor",
+    "text": "Contributor"
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html#background",
+    "href": "datasets/anti_fat_bias_2023.09.12.html#background",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "Background",
+    "text": "Background\nThese data are a part of Project Implicit, a non-profit organization co-founded by Dr. Mahzarin R. Banaji (Harvard University), Dr. Anthony G. Greenwald (University of Washington), and Dr. Brian Nosek (University of Virginia). The project aims to research “implicit social cognition,” essentially the implicit, unconscious feelings that people have toward others (“Project Implicit,” n.d.). They use an Implicit Association Test (IAT) to measure “attitudes and beliefs that people may be unwilling or unable to report” with 15 different studies (“Project Implicit,” n.d.).\nThis dataset on anti-fat bias is derived from one of the many testing options in Project Implicit.\n\nHow the Implicit Association Test works\nBelow is an excerpt from the Project Implicit page:\n\nThe IAT measures the strength of associations between concepts (e.g., black people, gay people) and evaluations (e.g., good, bad) or stereotypes (e.g., athletic, clumsy). The main idea is that making a response is easier when closely related items share the same response key.\nWhen doing an IAT you are asked to quickly sort words into categories that are on the left and right hand side of the computer screen by pressing the “e” key if the word belongs to the category on the left and the “i” key if the word belongs to the category on the right. The IAT has five main parts.\nIn the first part of the IAT you sort words relating to the concepts (e.g., fat people, thin people) into categories. So if the category “Fat People” was on the left, and a picture of a heavy person appeared on the screen, you would press the “e” key.\nIn the second part of the IAT you sort words relating to the evaluation (e.g., good, bad). So if the category “good” was on the left, and a pleasant word appeared on the screen, you would press the “e” key.\nIn the third part of the IAT the categories are combined and you are asked to sort both concept and evaluation words. So the categories on the left hand side would be Fat People/Good and the categories on the right hand side would be Thin People/Bad. It is important to note that the order in which the blocks are presented varies across participants, so some people will do the Fat People/Good, Thin People/Bad part first and other people will do the Fat People/Bad, Thin People/Good part first.\nIn the fourth part of the IAT the placement of the concepts switches. If the category “Fat People” was previously on the left, now it would be on the right. Importantly, the number of trials in this part of the IAT is increased in order to minimize the effects of practice.\nIn the final part of the IAT the categories are combined in a way that is opposite what they were before. If the category on the left was previously Fat People/Good, it would now be Fat People/Bad.\nThe IAT score is based on how long it takes a person, on average, to sort the words in the third part of the IAT versus the fifth part of the IAT. We would say that one has an implicit preference for thin people relative to fat people if they are faster to categorize words when Thin People and Good share a response key and Fat People and Bad share a response key, relative to the reverse."
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html#important-definitions",
+    "href": "datasets/anti_fat_bias_2023.09.12.html#important-definitions",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "Important Definitions",
+    "text": "Important Definitions\n\nAnti-fat bias: discrimination based on a person’s body weight, specifically stigma placed on individuals deemed “fat”"
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html#objective",
+    "href": "datasets/anti_fat_bias_2023.09.12.html#objective",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "Objective",
+    "text": "Objective\nThe objective of this dataset depends on the classroom in which it is used. In Linear Regression, we aim to find the association between the IAT score (outcome) and various demographics (including BMI) and weight-related attitudes and beliefs. In an Introductory course, we can examine the distribution and statistics of the IAT score itself."
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html#questionsactivities-for-students",
+    "href": "datasets/anti_fat_bias_2023.09.12.html#questionsactivities-for-students",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "Questions/Activities for Students",
+    "text": "Questions/Activities for Students\n\nActivity: Have the students take the test! You can go to the Project Implicit website, register, and select a specific test to take.\n\nOnce registered, you can click “Take a Test,” read the Preliminary Information, and then click “I wish to proceed” at the bottom.\nThen you can click the button “Weight IAT” to take this particular test.\n\nActivity: Discuss the validity of the test (big pop culture topic)\n\nIf not generalizable to public, what claims can we make from our analysis?\n\nActivity: Discuss our independence assumption in Linear Regression\n\nCan people take this test more than once? Are multiple tests from one person independent?"
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html#subjects-and-variables",
+    "href": "datasets/anti_fat_bias_2023.09.12.html#subjects-and-variables",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "Subjects and Variables",
+    "text": "Subjects and Variables"
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html#data-access",
+    "href": "datasets/anti_fat_bias_2023.09.12.html#data-access",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "Data Access",
+    "text": "Data Access\nData can be accessed here. Under “Weight IAT 2004-2022” there are several drop down menus:\n\nI opened the first “Datasets & Codebooks,” then selected “OSF Storage (United States).” Once selected, the “Download as zip” option pops up in the top right part of the Files section.\n\nYou can download any year’s dataset. All my material is drawn from the 2021 dataset.\nCSV and SAV (SPSS) files are available. You will need to unzip the folder and files before use. Please see my teaching materials for how I accessed the files within R."
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html#education-on-lived-experience",
+    "href": "datasets/anti_fat_bias_2023.09.12.html#education-on-lived-experience",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "Education on Lived Experience",
+    "text": "Education on Lived Experience\nmaybe quotes to include in class\nmaybe websites/blogs of folks to include\n\nWebsite on BMI as an inaccurate indicator of health: https://redefinehealthpromotion.my.canva.site/research\n“It’s extremely sh$%ty to live in a world where people’s sort of imagination of the healthiest and best world possible doesn’t have people who look like me in it.”\n\nAubrey Gordon, Maintenance Phase podcast, episode “The Obesity Epidemic”"
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html#opposing-viewpoints",
+    "href": "datasets/anti_fat_bias_2023.09.12.html#opposing-viewpoints",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "Opposing Viewpoints",
+    "text": "Opposing Viewpoints\nThis section may be triggering! The opposing viewpoints discuss the overutilization of implicit bias as it intersects with race and DEIJ in general.\nThis section will introduce us to a few articles that oppose implicit bias tests (or the IAT directly). The aim of this section is to understand critics of IAT: what and how they think. This will help us thoughtfully consider their arguments and work towards parsing out the truth behind the data. If you feel up to reading these article, I highly recommend it! However, these articles discuss the invalidity of implicit bias in the context of race. If you wish to avoid exposure to racist writing, please see my bulleted synopses below.\n\nVox article (2017)\n\nIn my opinion, this article seems more level-headed than the next article\nThere is a lot of work that shows sweeping claims and large conclusions from IAT are debunked\n\nHowever, we can make modest claims from the IAT\n\nThe IAT should not be used on the individual level\n\nYour individual results will vary: showing no bias, bias in one direction, and then bias in another\nIAT is better used at a population level\n\nAttempting to reduce implicit bias is not the best way to reduce racism: more structural and explicit changes need to be made\nMy response to this article:\n\nWe need note potential limitations including generalizability of IAT results\nNeed to bring IAT into context: By exposing implicit bias, we can validate experiences and promote structural changes\n\n\nPsychology Today Article (2022)\n\nIn my opinion, this article aims to be edgy and evoke an emotional response. Please read with caution.\nTalks about implicit bias tests in general and also the IAT\nImplicit bias does not have an agreed upon definition.\nIAT measures reaction time as a poor proxy for bias\n\nCan’t help myself from making a comment: Psychology research is FULL of proxies - it is very hard to directly measure unconscious thoughts and behavior!!\n\nMy response to this article:\n\nIt ended up giving me a great source of articles that talk about the limitations of implicit bias research!\n\nI think it’s important to read articles from scholars who have issues with the measurement validity and results. This is the best way to make my research more impenetrable to criticism."
+  },
+  {
+    "objectID": "datasets/anti_fat_bias_2023.09.12.html#publications",
+    "href": "datasets/anti_fat_bias_2023.09.12.html#publications",
+    "title": "Implicit Anti-Fat/Weight Bias",
+    "section": "Publications",
+    "text": "Publications\nHere are a few publications that have used these data. There are potentially more publications and the below publications may have used a different version of the dataset.\n\n(Elran-Barak and Bar-Anan 2018)\n\n\nTo do\n\nEdit abstract\nKeep reading!\nGotta start incorporating into lin reg class!!"
+  },
+  {
+    "objectID": "datasets_extra_docs/extra_docs_anti_fat_bias/IAT_validity.html",
+    "href": "datasets_extra_docs/extra_docs_anti_fat_bias/IAT_validity.html",
+    "title": "IAT Validity Notes",
+    "section": "",
+    "text": "There are several papers that discuss the validity of the Implicit Association Test. I want to discuss some of those claims, and see if we can still use this test in our analysis."
+  },
+  {
+    "objectID": "datasets_extra_docs/extra_docs_anti_fat_bias/IAT_validity.html#vox-article",
+    "href": "datasets_extra_docs/extra_docs_anti_fat_bias/IAT_validity.html#vox-article",
+    "title": "IAT Validity Notes",
+    "section": "Vox article",
+    "text": "Vox article\n\nThere is a lot of work that shows sweeping claims and large conclusions are debunked\nBut we can make Modest claims from the IAT"
+  },
+  {
+    "objectID": "datasets_extra_docs/extra_docs_anti_fat_bias/IAT_validity.html#apa-feature-article",
+    "href": "datasets_extra_docs/extra_docs_anti_fat_bias/IAT_validity.html#apa-feature-article",
+    "title": "IAT Validity Notes",
+    "section": "APA Feature Article",
+    "text": "APA Feature Article"
+  },
+  {
+    "objectID": "datasets_extra_docs/extra_docs_anti_fat_bias/IAT_validity.html#psychology-today-article",
+    "href": "datasets_extra_docs/extra_docs_anti_fat_bias/IAT_validity.html#psychology-today-article",
+    "title": "IAT Validity Notes",
+    "section": "Psychology Today Article",
+    "text": "Psychology Today Article"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Click on each for more details and course websites:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBiostatistics 1\n\n\nThis course is an introduction to basic statistical methods for epidemiology students.\n\n\n\n\n\n\n\n\n\n\n\n\n\nCategorical Data Analysis\n\n\nThis course covers the analysis of categorical data, including contingency tables, logistic regression, and other related topics.\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Probability\n\n\nThis course is designed to introduce concepts and distributions in probability using calculations and simulations.\n\n\n\n\n\n\n\n\n\n\n\n\n\nLinear Models\n\n\nThis course covers linear models and regression analysis, focusing on building theoretical understanding and practical application in R.\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "datasets/template.html",
+    "href": "datasets/template.html",
+    "title": "Template Dataset",
+    "section": "",
+    "text": "Study Design\nTopic\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClasses\nSpecific statistical topics\nSpecific social implications topics"
+  },
+  {
+    "objectID": "datasets/template.html#abstract",
+    "href": "datasets/template.html#abstract",
+    "title": "Template Dataset",
+    "section": "",
+    "text": "Study Design\nTopic\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClasses\nSpecific statistical topics\nSpecific social implications topics"
+  },
+  {
+    "objectID": "datasets/template.html#contributor",
+    "href": "datasets/template.html#contributor",
+    "title": "Template Dataset",
+    "section": "Contributor",
+    "text": "Contributor"
+  },
+  {
+    "objectID": "datasets/template.html#background",
+    "href": "datasets/template.html#background",
+    "title": "Template Dataset",
+    "section": "Background",
+    "text": "Background"
+  },
+  {
+    "objectID": "datasets/template.html#objective",
+    "href": "datasets/template.html#objective",
+    "title": "Template Dataset",
+    "section": "Objective",
+    "text": "Objective"
+  },
+  {
+    "objectID": "datasets/template.html#subjects-and-variables",
+    "href": "datasets/template.html#subjects-and-variables",
+    "title": "Template Dataset",
+    "section": "Subjects and Variables",
+    "text": "Subjects and Variables"
+  },
+  {
+    "objectID": "datasets/template.html#data",
+    "href": "datasets/template.html#data",
+    "title": "Template Dataset",
+    "section": "Data",
+    "text": "Data\n\n\n\nR\nSAS\nExcel (.csv)"
+  },
+  {
+    "objectID": "blog/Course_1st_Time.html",
+    "href": "blog/Course_1st_Time.html",
+    "title": "Balancing Life While Teaching a New Course",
+    "section": "",
+    "text": "grapple with wanting to give my students the best course and use all the current pedagogy work to make my class excellent.\nBut when you are teaching a course for the first time, it is very time consuming!! How do you get everything done?? You don’t!"
+  },
+  {
+    "objectID": "blog/Books_empathy.html",
+    "href": "blog/Books_empathy.html",
+    "title": "Books to help understand your students",
+    "section": "",
+    "text": "In the course of my first year teaching, I have found a few books to be helpful as I try to"
+  },
+  {
+    "objectID": "teachings/BSTA_550.html",
+    "href": "teachings/BSTA_550.html",
+    "title": "Introduction to Probability",
+    "section": "",
+    "text": "Fall 2025 Fall 2024 Fall 2023\nThis course is designed to introduce history, concepts and distributions in probability, Monte Carlo simulation techniques, and Markov chains. Students will also learn how to write R codes for various statistical computations and plots. Previous experience in R is not required. R is free software available from http://www.r-project.org."
+  },
+  {
+    "objectID": "teachings/BSTA_513.html",
+    "href": "teachings/BSTA_513.html",
+    "title": "Categorical Data Analysis",
+    "section": "",
+    "text": "Spring 2025 Spring 2024 Spring 2023\nThis course covers the analysis of categorical data, including contingency tables, logistic regression, and other related topics. It is designed for students who have a background in statistics and are interested in applying statistical methods to categorical data. In this course, we will continue to learn about regression analysis, but not with categorical outcomes. We will build some theoretical understanding in order to interpret and apply logistic regression models appropriately. We will learn how to build a logistic regression model, interpret the model and coefficients, and diagnose potential issues with our model."
+  }
+]

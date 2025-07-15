@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Nicky's Site"
+  site-url: https://nwakim.github.io/
+  navbar:
+    title: false
+    left: 
+      - icon: person-circle
+        file: index.qmd
+    background: primary
+    search: true
+    right:
+      - teaching.qmd
+      - cv.qmd
+      - research.qmd
+
+execute:
+  freeze: auto
+
+format:
+  html:
+    theme:
+      - sandstone_NW.scss
+    toc: true
+    

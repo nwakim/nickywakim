@@ -1,0 +1,24 @@
+---
+title: "Introduction to Probability"
+description: "This course is designed to introduce concepts and distributions in probability using calculations and simulations."
+title-block-style: none
+image: "/images/bsta_550_hex_3.png"
+format:
+  html:
+    link-external-newwindow: true
+---
+
+:::::: columns
+::: {.column width="30%"}
+![](../images/bsta_550_hex_3.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+[Fall 2025](https://nwakim.github.io/BSTA_513_S25/) [Fall 2024](https://nwakim.github.io/S2024_BSTA_513/) Fall 2023
+
+This course is designed to introduce history, concepts and distributions in probability, Monte Carlo simulation techniques, and Markov chains. Students will also learn how to write R codes for various statistical computations and plots. Previous experience in R is not required. R is free software available from http://www.r-project.org.
+:::
+::::::

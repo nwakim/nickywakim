@@ -1,0 +1,15 @@
+{
+  "hash": "a0119d778b03df23e556480380b3c75a",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"\"\ntoc: false\nsidebar: false\nlink-external-newwindow: true\n---\n\n\n\n::::: grid\n::: g-col-7\n \n\n# Nicky Wakim, PhD\n\n*Pronounced: Nik-EE Wah-KEEM*\n\n**Biostatistician, teacher, and hobby collector**\n\n[{{< iconify fluent mail-edit-24-filled size=30px >}}](mailto:wakim@ohsu.edu)     [{{< iconify simple-icons orcid size=30px >}}](https://orcid.org/0000-0003-4540-2946)     [{{< iconify bi linkedin size=30px >}}](https://www.linkedin.com/in/nwakim/)     [{{< iconify icomoon-free github size=30px >}}](https://github.com/nwakim)     [{{< iconify academicons google-scholar-square size=30px >}}](https://scholar.google.com/citations?user=3pA9LmIAAAAJ&hl=en)     [{{< iconify fa fire size=30px >}}](https://ohsu-psu-sph.org/our-school/faculty-directory/name/nicky-wakim/)\n\nPronouns: she/her\n:::\n\n::: g-col-5\n![](./images/N_Wakim.jpg){.rounded-image style=\"border-radius: 50%;\"}\n:::\n:::::\n\nI am currently working as an Assistant Profess of Biostatistics at the OHSU-PSU School of Public Health.\n\n**I strive to educate future biostatisticians and data scientists in responsible and thoughtful practice.** Most of my time is spent developing, improving, and teaching graduate-level biostatistics courses at OHSU. I create content in the classroom to improve accessibility for all students. \n\n**I work on research involving pragmatic trials, wearable device data, and statistics education.** I currently develop study designs for pragmatic trials, often in partnership with the Oregon Rural Practice-based Research Network (ORPRN). My current project in wearable devices includes a statistical approach to deciding on the most appropriate time window for summarizing high-frequency data. My current statistics education project involves trauma- and resilience-informed practice guidelines. \n\n\n\n::: {.cell}\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
