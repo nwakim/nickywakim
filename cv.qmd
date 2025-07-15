@@ -6,4 +6,6 @@ format:
     toc: true
 ---
 
+Below is a copy of my CV:
+
 {{< pdf /cv/NWakim_CV_2025-07-14.pdf width=100% height=1000 >}}
