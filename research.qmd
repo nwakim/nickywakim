@@ -7,6 +7,8 @@ toc: false
 
 ### Pragmatic Trials
 
+I consider myself a pragmatic statistician, and this follows through my work in pragmatic trials. I have experience in developing study designs for pragmatic trials, often in partnership with the Oregon Rural Practice-based Research Network (ORPRN). I am particularly interested in the design of cluster randomized trials. 
+
 ### Wearable Device Data
 
 ### (Bio)statistics education
