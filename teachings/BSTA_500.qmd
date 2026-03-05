@@ -1,0 +1,24 @@
+---
+title: "Wearable Device Data"
+description: "This course covers ."
+title-block-style: none
+image: "/images/bsta_512_hex.png"
+format:
+  html:
+    link-external-newwindow: true
+---
+
+:::::: columns
+::: {.column width="30%"}
+![](../images/bsta_512_hex.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+[Spring 2025](https://nwakim.github.io/BSTA_500_S25/)
+
+
+:::
+::::::

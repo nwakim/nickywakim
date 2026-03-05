@@ -1,0 +1,25 @@
+---
+title: "Intro to R"
+description: "This course introduces students to the R programming environment for reproducible data analysis. Students will learn fundamental skills in data manipulation, visualization, and reporting to support exploratory data projects."
+title-block-style: none
+image: "/images/bsta_512_hex.png"
+format:
+  html:
+    link-external-newwindow: true
+---
+
+:::::: columns
+::: {.column width="30%"}
+![](../images/bsta_512_hex.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+[Summer 2025](https://nwakim.github.io/BSTA_500_25Su/)
+
+In this course, students will gain basic proficiency with the R environment and toolkit, focusing on reproducible workflows, data manipulation, visualization, and reporting. Topics include basic R programming, working in project-based folders, data transformations and summaries, data visualizations and plots, generating dynamic reports, and constructing summary tables.  By the end of the course, students will be comfortable initiating data exploration projects in R and will be prepared to apply these skills in further analysis courses. No prior statistical or coding experience is expected or required.
+:::
+::::::
+

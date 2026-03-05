@@ -25,7 +25,7 @@
     "href": "teachings/BSTA_512.html",
     "title": "Linear Models",
     "section": "",
-    "text": "Winter 2025 Winter 2024\nIn this course, we will focus on linear models, and build our understanding of regression analysis. We will build some theoretical understanding in order to interpret and apply regression models appropriately. We will learn how to build a regression model, interpret the model, and diagnose potential issues with our model."
+    "text": "Winter 2026 Winter 2025 Winter 2024\nIn this course, we will focus on linear models, and build our understanding of regression analysis. We will build some theoretical understanding in order to interpret and apply regression models appropriately. We will learn how to build a regression model, interpret the model, and diagnose potential issues with our model."
   },
   {
     "objectID": "cv.html",
@@ -179,7 +179,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Click on each for more details and course websites:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBiostatistics 1\n\n\nThis course is an introduction to basic statistical methods for epidemiology students.\n\n\n\n\n\n\n\n\n\n\n\n\n\nCategorical Data Analysis\n\n\nThis course covers the analysis of categorical data, including contingency tables, logistic regression, and other related topics.\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Probability\n\n\nThis course is designed to introduce concepts and distributions in probability using calculations and simulations.\n\n\n\n\n\n\n\n\n\n\n\n\n\nLinear Models\n\n\nThis course covers linear models and regression analysis, focusing on building theoretical understanding and practical application in R.\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Click on each for more details and course websites:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBiostatistics 1\n\n\nThis course is an introduction to basic statistical methods for epidemiology students.\n\n\n\n\n\n\n\n\n\n\n\n\nCategorical Data Analysis\n\n\nThis course covers the analysis of categorical data, including contingency tables, logistic regression, and other related topics.\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to R\n\n\nThis course introduces students to the R programming environment for reproducible data analysis. Students will learn fundamental skills in data manipulation, visualization…\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Probability\n\n\nThis course is designed to introduce concepts and distributions in probability using calculations and simulations.\n\n\n\n\n\n\n\n\n\n\n\n\nLinear Models\n\n\nThis course covers linear models and regression analysis, focusing on building theoretical understanding and practical application in R.\n\n\n\n\n\n\n\n\n\n\n\n\nWearable Device Data\n\n\nThis course covers .\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "datasets/template.html",
@@ -257,5 +257,19 @@
     "title": "Categorical Data Analysis",
     "section": "",
     "text": "Spring 2025 Spring 2024 Spring 2023\nThis course covers the analysis of categorical data, including contingency tables, logistic regression, and other related topics. It is designed for students who have a background in statistics and are interested in applying statistical methods to categorical data. In this course, we will continue to learn about regression analysis, but not with categorical outcomes. We will build some theoretical understanding in order to interpret and apply logistic regression models appropriately. We will learn how to build a logistic regression model, interpret the model and coefficients, and diagnose potential issues with our model."
+  },
+  {
+    "objectID": "teachings/PUBH_526.html",
+    "href": "teachings/PUBH_526.html",
+    "title": "Intro to R",
+    "section": "",
+    "text": "Summer 2025\nIn this course, students will gain basic proficiency with the R environment and toolkit, focusing on reproducible workflows, data manipulation, visualization, and reporting. Topics include basic R programming, working in project-based folders, data transformations and summaries, data visualizations and plots, generating dynamic reports, and constructing summary tables. By the end of the course, students will be comfortable initiating data exploration projects in R and will be prepared to apply these skills in further analysis courses. No prior statistical or coding experience is expected or required."
+  },
+  {
+    "objectID": "teachings/BSTA_500.html",
+    "href": "teachings/BSTA_500.html",
+    "title": "Wearable Device Data",
+    "section": "",
+    "text": "Spring 2025"
   }
 ]
