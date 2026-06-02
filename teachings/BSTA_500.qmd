@@ -1,24 +1,15 @@
 ---
 title: "Wearable Device Data"
-description: "This course covers ."
+description: "This course covers the analysis of wearable device data, with a focus on functional data analysis."
 title-block-style: none
-image: "/images/bsta_512_hex.png"
 format:
   html:
     link-external-newwindow: true
 ---
 
-:::::: columns
-::: {.column width="30%"}
-![](../images/bsta_512_hex.png)
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="65%"}
 [Spring 2025](https://nwakim.github.io/BSTA_500_S25/)
 
+This course was a one-time independent study with two second-year MPH Biostatistics students. 
 
-:::
-::::::
+This course covers the analysis of wearable device data, with a focus on functional data analysis. We will cover the basics of wearable device data, including common data structures and types of data collected. We will then delve into functional data analysis techniques, including smoothing, functional principal component analysis, and functional regression. We will also discuss the challenges of working with wearable device data, such as missing data and measurement error, and how to address these issues in our analyses.
+

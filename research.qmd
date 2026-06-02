@@ -9,9 +9,15 @@ toc: false
 
 I consider myself a pragmatic statistician, and this follows through my work in pragmatic trials. I have experience in developing study designs for pragmatic trials, often in partnership with the Oregon Rural Practice-based Research Network (ORPRN). I am particularly interested in the design of cluster randomized trials. 
 
+### (Bio)statistics education
+
+I am passionate about education in statistics and biostatistics. I have experience in teaching statistics at graduate levels, and I am interested in developing innovative teaching methods to improve student learning. My recent work focuses on trauma-informed pedagogy in statistics education, which aims to acknowledge and accommodate students who are navigating trauma or PTSD while learning statistics.
+
+[Take a look at a recent Poster & Beyond session that I gave at eCOTS 2026.](https://www.loom.com/share/8a17b176240546bb88a206d22f2ad5a5)
+
 ### Wearable Device Data
 
-### (Bio)statistics education
+In 2019-2023, I developed imputation frameworks for wearable device data, including an in-depth comparison between different processes of summarization and imputation. I took a pragmatic approach, realizing that analysis of wearable device data often uses summaries within models. I found that the the order of summarization and imputation can have a large impact on the results of an analysis, and I developed a framework for choosing the best process for a given dataset. I am interested in continuing to work with wearable device data, but have taken a pause to focus on teaching. 
 
 ## Publications
 
