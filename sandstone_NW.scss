@@ -375,3 +375,31 @@ input,
 
 // My added divs
 
+// MAKE SOME BOXES;
+
+// orange
+.orange {
+  margin-left: 0em;
+  padding-left:  5px;
+  padding-top:  5px;
+  padding-right:  5px;
+  color: $white !important;
+  background-color: #5BAFF8;
+  font-size: 1em;
+  background-size: 40px;
+  background-repeat: no-repeat;
+  background-position: 15px center;
+  border-radius: 10px;
+  text-align: center;
+  //background-image: url("goal.png");
+}
+.orange a {
+  color: $white !important;
+  text-decoration: none !important;
+}
+.orange a:hover {
+  color: $white !important;
+}
+.orange:has(a:hover) {
+  background-color: #3070BF;
+}

@@ -179,7 +179,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Biostatistics 1\n\n\nThis course is an introduction to basic statistical methods for epidemiology students.\n\n\n\n\n\n\n\n\n\n\n\n\nCategorical Data Analysis\n\n\nThis course covers the analysis of categorical data, including contingency tables, logistic regression, and other related topics.\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to R\n\n\nThis course introduces students to the R programming environment for reproducible data analysis.\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Probability\n\n\nThis course is designed to introduce concepts and distributions in probability using calculations and simulations.\n\n\n\n\n\n\n\n\n\n\n\n\nLinear Models\n\n\nThis course covers linear models and regression analysis, focusing on building theoretical understanding and practical application in R.\n\n\n\n\n\n\n\n\n\n\nWearable Device Data\n\n\nThis course covers the analysis of wearable device data, with a focus on functional data analysis.\n\n\n\n\n\nNo matching items"
+    "text": "Biostatistics 1\n\n\nThis course is an introduction to basic statistical methods for epidemiology students.\n\n\n\n\n\n\n\n\n\n\n\n\nCategorical Data Analysis\n\n\nThis course covers the analysis of categorical data, including contingency tables, logistic regression, and other related topics.\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Probability\n\n\nThis course is designed to introduce concepts and distributions in probability using calculations and simulations.\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to R\n\n\nThis course introduces students to the R programming environment for reproducible data analysis.\n\n\n\n\n\n\n\n\n\n\n\n\nLinear Models\n\n\nThis course covers linear models and regression analysis, focusing on building theoretical understanding and practical application in R.\n\n\n\n\n\n\n\n\n\n\nWearable Device Data\n\n\nThis course covers the analysis of wearable device data, with a focus on functional data analysis.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "datasets/template.html",
@@ -261,9 +261,9 @@
   {
     "objectID": "teachings/PUBH_526.html",
     "href": "teachings/PUBH_526.html",
-    "title": "Intro to R",
+    "title": "Introduction to R",
     "section": "",
-    "text": "Summer 2026Summer 2025\nIn this course, students will gain basic proficiency with the R environment and toolkit, focusing on reproducible workflows, data manipulation, visualization, and reporting. Topics include basic R programming, working in project-based folders, data transformations and summaries, data visualizations and plots, generating dynamic reports, and constructing summary tables. By the end of the course, students will be comfortable initiating data exploration projects in R and will be prepared to apply these skills in further analysis courses. No prior statistical or coding experience is expected or required."
+    "text": "Summer 2026\n\n\n\n\n\nSummer 2025\n\n\n\nIn this course, students will gain basic proficiency with the R environment and toolkit, focusing on reproducible workflows, data manipulation, visualization, and reporting. Topics include basic R programming, working in project-based folders, data transformations and summaries, data visualizations and plots, generating dynamic reports, and constructing summary tables. By the end of the course, students will be comfortable initiating data exploration projects in R and will be prepared to apply these skills in further analysis courses. No prior statistical or coding experience is expected or required."
   },
   {
     "objectID": "teachings/BSTA_500.html",
