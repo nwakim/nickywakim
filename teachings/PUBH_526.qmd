@@ -3,7 +3,7 @@ title: "Introduction to R"
 description: "This course introduces students to the R programming environment for reproducible data analysis."
 date-meta: "2026-09-01"
 title-block-style: none
-image: "/images/PUBH_R.png"
+image: "/images/PUBH_R-1.png"
 format:
   html:
     link-external-newwindow: true
@@ -11,7 +11,7 @@ format:
 
 :::::: columns
 ::: {.column width="30%"}
-![](../images/PUBH_R.png)
+![](../images/PUBH_R-1.png)
 :::
 
 ::: {.column width="5%"}
