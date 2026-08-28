@@ -20,14 +20,14 @@ format:
 
 ::: columns
 ::: {.column width="25%"}
-::: orange
+::: link-blue
 [Summer 2026](https://nwakim.github.io/PUBH_523_26Su/) 
 :::
 :::
 ::: {.column width="1%"}
 :::
 ::: {.column width="25%"}
-::: orange
+::: link-blue
 [Summer 2025](https://nwakim.github.io/BSTA_500_25Su/)
 :::
 :::

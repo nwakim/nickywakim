@@ -377,8 +377,8 @@ input,
 
 // MAKE SOME BOXES;
 
-// orange
-.orange {
+// blue link PUBH 523
+.link-blue {
   margin-left: 0em;
   padding-left:  5px;
   padding-top:  5px;
@@ -393,13 +393,40 @@ input,
   text-align: center;
   //background-image: url("goal.png");
 }
-.orange a {
+.link-blue a {
   color: $white !important;
   text-decoration: none !important;
 }
-.orange a:hover {
+.link-blue a:hover {
   color: $white !important;
 }
-.orange:has(a:hover) {
+.link-blue:has(a:hover) {
   background-color: #3070BF;
+}
+
+// link bstra 513
+.link-orange {
+  margin-left: 0em;
+  padding-left:  5px;
+  padding-top:  5px;
+  padding-right:  5px;
+  color: $white !important;
+  background-color: #EF883B;
+  font-size: 1em;
+  background-size: 40px;
+  background-repeat: no-repeat;
+  background-position: 15px center;
+  border-radius: 10px;
+  text-align: center;
+  //background-image: url("goal.png");
+}
+.link-orange a {
+  color: $white !important;
+  text-decoration: none !important;
+}
+.link-orange a:hover {
+  color: $white !important;
+}
+.link-orange:has(a:hover) {
+  background-color: #EF791F;
 }
