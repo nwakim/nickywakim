@@ -44,7 +44,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-d62360b27c27dc5b646f850cb091091c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-8c029520719559e1fb379c456350e96d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -82,9 +82,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -202,107 +202,141 @@ window.Quarto = {
 </header>
 
 
+<p>Courses are ordered by quarter and year offered. The most recent courses appear at the top.</p>
 
 
 
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-5">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1752539312000" data-listing-reading-time-sort="1" data-listing-word-count-sort="113">
-<a href="./teachings/EPI_525.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/Epi_525.png" class="thumbnail-image card-img" style="height: 235px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Biostatistics 1
-</h5>
-<div class="card-text listing-description delink">
-<p>This course is an introduction to basic statistical methods for epidemiology students.</p>
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-title-sort" data-direction="asc">
+        Title
+      </option>
+    </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
 </div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1787954556016" data-listing-reading-time-sort="1" data-listing-word-count-sort="123">
-<a href="./teachings/BSTA_513.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/Bsta513.png" class="thumbnail-image card-img" style="height: 235px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Categorical Data Analysis
-</h5>
-<div class="card-text listing-description delink">
-<p>This course covers the analysis of categorical data, including contingency tables, logistic regression, and other related topics.</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1757105931000" data-listing-reading-time-sort="1" data-listing-word-count-sort="60">
-<a href="./teachings/BSTA_550.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/bsta_550_hex_3.png" class="thumbnail-image card-img" style="height: 235px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Introduction to Probability
-</h5>
-<div class="card-text listing-description delink">
-<p>This course is designed to introduce concepts and distributions in probability using calculations and simulations.</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1787954385894" data-listing-reading-time-sort="1" data-listing-word-count-sort="105">
-<a href="./teachings/PUBH_526.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/PUBH_R.png" class="thumbnail-image card-img" style="height: 235px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Introduction to R
-</h5>
-<div class="card-text listing-description delink">
-<p>This course introduces students to the R programming environment for reproducible data analysis.</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1772743889000" data-listing-reading-time-sort="1" data-listing-word-count-sort="62">
-<a href="./teachings/BSTA_512.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/bsta_512_hex.png" class="thumbnail-image card-img" style="height: 235px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Linear Models
-</h5>
-<div class="card-text listing-description delink">
-<p>This course covers linear models and regression analysis, focusing on building theoretical understanding and practical application in R.</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1780419232000" data-listing-reading-time-sort="1" data-listing-word-count-sort="94">
-<a href="./teachings/BSTA_500.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 235px;">&nbsp;</div>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Wearable Device Data
-</h5>
-<div class="card-text listing-description delink">
-<p>This course covers the analysis of wearable device data, with a focus on functional data analysis.</p>
-</div>
-</div>
-</div></a>
-</div>
-</div>
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+
+<th>
+ 
+</th>
+
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+</th>
+
+<th>
+Description
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-listing-file-modified-sort="1787955779213" data-listing-reading-time-sort="1" data-listing-word-count-sort="73" data-listing-title-sort="Introduction to Probability" data-listing-filename-sort="BSTA_550.qmd">
+<td>
+<span class="listing-image"><img loading="lazy" src="./images/bsta_550_hex_3.png" style="height: 100px;"></span>
+</td>
+<td>
+<a href="./teachings/BSTA_550.html" class="title listing-title">Introduction to Probability</a>
+</td>
+<td>
+<span class="listing-description">This course is designed to introduce concepts and distributions in probability using calculations and simulations.</span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-listing-file-modified-sort="1787955792794" data-listing-reading-time-sort="1" data-listing-word-count-sort="105" data-listing-title-sort="Introduction to R" data-listing-filename-sort="PUBH_526.qmd">
+<td>
+<span class="listing-image"><img loading="lazy" src="./images/PUBH_R.png" style="height: 100px;"></span>
+</td>
+<td>
+<a href="./teachings/PUBH_526.html" class="title listing-title">Introduction to R</a>
+</td>
+<td>
+<span class="listing-description">This course introduces students to the R programming environment for reproducible data analysis.</span>
+</td>
+
+</tr>
+
+<tr data-index="2" data-listing-file-modified-sort="1787955769646" data-listing-reading-time-sort="1" data-listing-word-count-sort="123" data-listing-title-sort="Categorical Data Analysis" data-listing-filename-sort="BSTA_513.qmd">
+<td>
+<span class="listing-image"><img loading="lazy" src="./images/Bsta513.png" style="height: 100px;"></span>
+</td>
+<td>
+<a href="./teachings/BSTA_513.html" class="title listing-title">Categorical Data Analysis</a>
+</td>
+<td>
+<span class="listing-description">This course covers the analysis of categorical data, including contingency tables, logistic regression, and other related topics.</span>
+</td>
+
+</tr>
+
+<tr data-index="3" data-listing-file-modified-sort="1787955751005" data-listing-reading-time-sort="1" data-listing-word-count-sort="88" data-listing-title-sort="Introduction to Python for Health Data Science" data-listing-filename-sort="BSTA_500_ptyhon.qmd">
+<td>
+<span class="listing-image"><div class="listing-item-img-placeholder card-img-top" style="height: 100px;">&nbsp;</div></span>
+</td>
+<td>
+<a href="./teachings/BSTA_500_ptyhon.html" class="title listing-title">Introduction to Python for Health Data Science</a>
+</td>
+<td>
+<span class="listing-description">This class was an independent study for students who have learned R and R Studio in previous courses and want to learn Python.</span>
+</td>
+
+</tr>
+
+<tr data-index="4" data-listing-file-modified-sort="1787956105118" data-listing-reading-time-sort="1" data-listing-word-count-sort="74" data-listing-title-sort="Linear Models" data-listing-filename-sort="BSTA_512.qmd">
+<td>
+<span class="listing-image"><img loading="lazy" src="./images/bsta_512_hex.png" style="height: 100px;"></span>
+</td>
+<td>
+<a href="./teachings/BSTA_512.html" class="title listing-title">Linear Models</a>
+</td>
+<td>
+<span class="listing-description">This course covers linear models and regression analysis, focusing on building theoretical understanding and practical application in R.</span>
+</td>
+
+</tr>
+
+<tr data-index="5" data-listing-file-modified-sort="1787956456912" data-listing-reading-time-sort="1" data-listing-word-count-sort="129" data-listing-title-sort="Biostatistics 1" data-listing-filename-sort="EPI_525.qmd">
+<td>
+<span class="listing-image"><img loading="lazy" src="./images/Epi_525.png" style="height: 100px;"></span>
+</td>
+<td>
+<a href="./teachings/EPI_525.html" class="title listing-title">Biostatistics 1</a>
+</td>
+<td>
+<span class="listing-description">This course is an introduction to basic statistical methods for epidemiology students.</span>
+</td>
+
+</tr>
+
+<tr data-index="6" data-listing-file-modified-sort="1787955757914" data-listing-reading-time-sort="1" data-listing-word-count-sort="98" data-listing-title-sort="Wearable Device Data" data-listing-filename-sort="BSTA_500.qmd">
+<td>
+<span class="listing-image"><div class="listing-item-img-placeholder card-img-top" style="height: 100px;">&nbsp;</div></span>
+</td>
+<td>
+<a href="./teachings/BSTA_500.html" class="title listing-title">Wearable Device Data</a>
+</td>
+<td>
+<span class="listing-description">This course covers the analysis of wearable device data, with a focus on functional data analysis.</span>
+</td>
+
+</tr>
+
+</tbody>
+</table>
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

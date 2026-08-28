@@ -2,6 +2,7 @@
 title: "Categorical Data Analysis"
 image: "/images/Bsta513.png"
 description: "This course covers the analysis of categorical data, including contingency tables, logistic regression, and other related topics."
+date-meta: "2026-03-01"
 title-block-style: none 
 format:
   html:

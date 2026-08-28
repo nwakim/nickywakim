@@ -6,8 +6,10 @@ format:
     page-layout: full
     listing: 
       contents: teachings
-      type: grid
-      fields: [title, image, description]
-      image-height: "235px"
-      grid-columns: 5
+      type: table
+      fields: [image, title, description]
+      image-height: "100px"
+      sort: "date-meta desc"
 ---
+
+Courses are ordered by quarter and year offered. The most recent courses appear at the top.

@@ -430,3 +430,84 @@ input,
 .link-orange:has(a:hover) {
   background-color: #EF791F;
 }
+
+// link bsta 550
+.link-green {
+  margin-left: 0em;
+  padding-left:  5px;
+  padding-top:  5px;
+  padding-right:  5px;
+  color: $white !important;
+  background-color: #2D6850;
+  font-size: 1em;
+  background-size: 40px;
+  background-repeat: no-repeat;
+  background-position: 15px center;
+  border-radius: 10px;
+  text-align: center;
+  //background-image: url("goal.png");
+}
+.link-green a {
+  color: $white !important;
+  text-decoration: none !important;
+}
+.link-green a:hover {
+  color: $white !important;
+}
+.link-green:has(a:hover) {
+  background-color: #2C4C4F;
+}
+
+// link bsta 512
+.link-green2 {
+  margin-left: 0em;
+  padding-left:  5px;
+  padding-top:  5px;
+  padding-right:  5px;
+  color: $white !important;
+  background-color: #5AAA8D;
+  font-size: 1em;
+  background-size: 40px;
+  background-repeat: no-repeat;
+  background-position: 15px center;
+  border-radius: 10px;
+  text-align: center;
+  //background-image: url("goal.png");
+}
+.link-green2 a {
+  color: $white !important;
+  text-decoration: none !important;
+}
+.link-green2 a:hover {
+  color: $white !important;
+}
+.link-green2:has(a:hover) {
+  background-color: #46836D;
+}
+
+// link epi 525
+.link-pink {
+  margin-left: 0em;
+  padding-left:  5px;
+  padding-top:  5px;
+  padding-right:  5px;
+  color: $white !important;
+  background-color: #EF85B3;
+  font-size: 1em;
+  background-size: 40px;
+  background-repeat: no-repeat;
+  background-position: 15px center;
+  border-radius: 10px;
+  text-align: center;
+  //background-image: url("goal.png");
+}
+.link-pink a {
+  color: $white !important;
+  text-decoration: none !important;
+}
+.link-pink a:hover {
+  color: $white !important;
+}
+.link-pink:has(a:hover) {
+  background-color: #EC6EA7;
+}

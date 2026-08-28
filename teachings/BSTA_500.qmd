@@ -1,13 +1,20 @@
 ---
 title: "Wearable Device Data"
 description: "This course covers the analysis of wearable device data, with a focus on functional data analysis."
+date-meta: "2025-03-01"
 title-block-style: none
 format:
   html:
     link-external-newwindow: true
 ---
 
+::: columns
+::: {.column width="25%"}
+::: link-blue
 [Spring 2025](https://nwakim.github.io/BSTA_500_S25/)
+:::
+:::
+:::
 
 This course was a one-time independent study with two second-year MPH Biostatistics students. 
 

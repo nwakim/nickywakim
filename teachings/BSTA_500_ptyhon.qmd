@@ -1,0 +1,21 @@
+---
+title: "Introduction to Python for Health Data Science"
+description: "This class was an independent study for students who have learned R and R Studio in previous courses and want to learn Python."
+date-meta: "2026-03-01"
+title-block-style: none
+format:
+  html:
+    link-external-newwindow: true
+---
+
+::: columns
+::: {.column width="25%"}
+::: link-blue
+[Spring 2026](https://nwakim.github.io/BSTA_500_26S/)
+:::
+:::
+:::
+
+This class is an independent study for students who have learned R and R Studio in previous courses and want to learn Python. 
+
+The course will be structured around a series of lessons that cover the basics of Python programming, data manipulation, and data visualization. Each week, we will use a set of slides that served as lessons in R and translate them to Python. A student will be assigned different weeks to translate the slides and lead an informal lesson on Python.

@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nwakim.github.io/index.html</loc>
-    <lastmod>2025-07-15T00:56:22.071Z</lastmod>
+    <lastmod>2025-07-15T00:56:22.000Z</lastmod>
   </url>
   <url>
     <loc>https://nwakim.github.io/research.html</loc>
-    <lastmod>2026-06-02T16:50:53.677Z</lastmod>
+    <lastmod>2026-06-02T16:50:53.000Z</lastmod>
   </url>
   <url>
     <loc>https://nwakim.github.io/teachings/EPI_525.html</loc>
-    <lastmod>2025-07-15T00:28:32.747Z</lastmod>
+    <lastmod>2026-08-28T22:34:16.912Z</lastmod>
   </url>
   <url>
     <loc>https://nwakim.github.io/teachings/BSTA_512.html</loc>
-    <lastmod>2026-03-05T20:51:29.699Z</lastmod>
+    <lastmod>2026-08-28T22:28:25.118Z</lastmod>
   </url>
   <url>
     <loc>https://nwakim.github.io/cv.html</loc>
@@ -34,7 +34,7 @@
   </url>
   <url>
     <loc>https://nwakim.github.io/teaching.html</loc>
-    <lastmod>2026-03-06T00:47:28.000Z</lastmod>
+    <lastmod>2026-08-28T22:25:33.134Z</lastmod>
   </url>
   <url>
     <loc>https://nwakim.github.io/datasets/template.html</loc>
@@ -50,18 +50,22 @@
   </url>
   <url>
     <loc>https://nwakim.github.io/teachings/BSTA_550.html</loc>
-    <lastmod>2025-09-05T20:58:51.841Z</lastmod>
+    <lastmod>2026-08-28T22:22:59.213Z</lastmod>
   </url>
   <url>
     <loc>https://nwakim.github.io/teachings/BSTA_513.html</loc>
-    <lastmod>2026-08-28T22:02:36.016Z</lastmod>
+    <lastmod>2026-08-28T22:22:49.646Z</lastmod>
   </url>
   <url>
     <loc>https://nwakim.github.io/teachings/PUBH_526.html</loc>
-    <lastmod>2026-08-28T21:59:45.894Z</lastmod>
+    <lastmod>2026-08-28T22:23:12.794Z</lastmod>
   </url>
   <url>
     <loc>https://nwakim.github.io/teachings/BSTA_500.html</loc>
-    <lastmod>2026-06-02T16:53:52.421Z</lastmod>
+    <lastmod>2026-08-28T22:22:37.914Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nwakim.github.io/teachings/BSTA_500_ptyhon.html</loc>
+    <lastmod>2026-08-28T22:22:31.005Z</lastmod>
   </url>
 </urlset>

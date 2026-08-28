@@ -18,14 +18,14 @@
     "href": "teachings/EPI_525.html",
     "title": "Biostatistics 1",
     "section": "",
-    "text": "Fall 2025 Fall 2024\nThis course covers a broad range of basic statistical methods used in the health sciences. We will start with a review of descriptive statistics and introductory probability, then explore probability and sampling distributions, central limit theorem, and confidence intervals. These topics will be followed by basic hypothesis testing framework, along with the appropriate power and sample size considerations. We will also cover large-sample hypothesis tests for means, proportions and variances, and some exact tests. Students will be introduced to one-way analysis of variance (ANOVA), correlation and simple linear regression in preparation for BSTA 512/612. Most homework assignments are to be completed using R."
+    "text": "Fall 2025\n\n\n\n\n\nFall 2024\n\n\n\nThis course is no longer offered at OHSU.\nThis course covers a broad range of basic statistical methods used in the health sciences. We will start with a review of descriptive statistics and introductory probability, then explore probability and sampling distributions, central limit theorem, and confidence intervals. These topics will be followed by basic hypothesis testing framework, along with the appropriate power and sample size considerations. We will also cover large-sample hypothesis tests for means, proportions and variances, and some exact tests. Students will be introduced to one-way analysis of variance (ANOVA), correlation and simple linear regression in preparation for BSTA 512/612. Most homework assignments are to be completed using R."
   },
   {
     "objectID": "teachings/BSTA_512.html",
     "href": "teachings/BSTA_512.html",
     "title": "Linear Models",
     "section": "",
-    "text": "Winter 2026 Winter 2025 Winter 2024\nIn this course, we will focus on linear models, and build our understanding of regression analysis. We will build some theoretical understanding in order to interpret and apply regression models appropriately. We will learn how to build a regression model, interpret the model, and diagnose potential issues with our model."
+    "text": "Winter 2026\n\n\n\n\n\nWinter 2025\n\n\n\n\n\nWinter 2024\n\n\n\nIn this course, we will focus on linear models, and build our understanding of regression analysis. We will build some theoretical understanding in order to interpret and apply regression models appropriately. We will learn how to build a regression model, interpret the model, and diagnose potential issues with our model."
   },
   {
     "objectID": "cv.html",
@@ -179,7 +179,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Biostatistics 1\n\n\nThis course is an introduction to basic statistical methods for epidemiology students.\n\n\n\n\n\n\n\n\n\n\n\n\nCategorical Data Analysis\n\n\nThis course covers the analysis of categorical data, including contingency tables, logistic regression, and other related topics.\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Probability\n\n\nThis course is designed to introduce concepts and distributions in probability using calculations and simulations.\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to R\n\n\nThis course introduces students to the R programming environment for reproducible data analysis.\n\n\n\n\n\n\n\n\n\n\n\n\nLinear Models\n\n\nThis course covers linear models and regression analysis, focusing on building theoretical understanding and practical application in R.\n\n\n\n\n\n\n\n\n\n\nWearable Device Data\n\n\nThis course covers the analysis of wearable device data, with a focus on functional data analysis.\n\n\n\n\n\nNo matching items"
+    "text": "Courses are ordered by quarter and year offered. The most recent courses appear at the top.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Probability\n\n\nThis course is designed to introduce concepts and distributions in probability using calculations and simulations.\n\n\n\n\n\n\n\n\n\nIntroduction to R\n\n\nThis course introduces students to the R programming environment for reproducible data analysis.\n\n\n\n\n\n\n\n\n\nCategorical Data Analysis\n\n\nThis course covers the analysis of categorical data, including contingency tables, logistic regression, and other related topics.\n\n\n\n\n\n\n\n\n\nIntroduction to Python for Health Data Science\n\n\nThis class was an independent study for students who have learned R and R Studio in previous courses and want to learn Python.\n\n\n\n\n\n\n\n\n\nLinear Models\n\n\nThis course covers linear models and regression analysis, focusing on building theoretical understanding and practical application in R.\n\n\n\n\n\n\n\n\n\nBiostatistics 1\n\n\nThis course is an introduction to basic statistical methods for epidemiology students.\n\n\n\n\n\n\n\n\n\nWearable Device Data\n\n\nThis course covers the analysis of wearable device data, with a focus on functional data analysis.\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "datasets/template.html",
@@ -249,7 +249,7 @@
     "href": "teachings/BSTA_550.html",
     "title": "Introduction to Probability",
     "section": "",
-    "text": "Fall 2025 Fall 2024 Fall 2023\nThis course is designed to introduce history, concepts and distributions in probability, Monte Carlo simulation techniques, and Markov chains. Students will also learn how to write R codes for various statistical computations and plots. Previous experience in R is not required. R is free software available from http://www.r-project.org."
+    "text": "Fall 2025\n\n\n\n\n\nFall 2024\n\n\n\n\n\nFall 2023\n\n\n\nThis course is designed to introduce history, concepts and distributions in probability, Monte Carlo simulation techniques, and Markov chains. Students will also learn how to write R codes for various statistical computations and plots. Previous experience in R is not required. R is free software available from http://www.r-project.org."
   },
   {
     "objectID": "teachings/BSTA_513.html",
@@ -270,7 +270,7 @@
     "href": "teachings/BSTA_500.html",
     "title": "Wearable Device Data",
     "section": "",
-    "text": "Spring 2025\nThis course was a one-time independent study with two second-year MPH Biostatistics students.\nThis course covers the analysis of wearable device data, with a focus on functional data analysis. We will cover the basics of wearable device data, including common data structures and types of data collected. We will then delve into functional data analysis techniques, including smoothing, functional principal component analysis, and functional regression. We will also discuss the challenges of working with wearable device data, such as missing data and measurement error, and how to address these issues in our analyses."
+    "text": "Spring 2025\n\n\n\nThis course was a one-time independent study with two second-year MPH Biostatistics students.\nThis course covers the analysis of wearable device data, with a focus on functional data analysis. We will cover the basics of wearable device data, including common data structures and types of data collected. We will then delve into functional data analysis techniques, including smoothing, functional principal component analysis, and functional regression. We will also discuss the challenges of working with wearable device data, such as missing data and measurement error, and how to address these issues in our analyses."
   },
   {
     "objectID": "research.html",
@@ -285,5 +285,12 @@
     "title": "Research",
     "section": "",
     "text": "I consider myself a pragmatic statistician, and this follows through my work in pragmatic trials. I have experience in developing study designs for pragmatic trials, often in partnership with the Oregon Rural Practice-based Research Network (ORPRN). I am particularly interested in the design of cluster randomized trials.\n\n\n\nI am passionate about education in statistics and biostatistics. I have experience in teaching statistics at graduate levels, and I am interested in developing innovative teaching methods to improve student learning. My recent work focuses on trauma-informed pedagogy in statistics education, which aims to acknowledge and accommodate students who are navigating trauma or PTSD while learning statistics.\nTake a look at a recent Poster & Beyond session that I gave at eCOTS 2026.\n\n\n\nIn 2019-2023, I developed imputation frameworks for wearable device data, including an in-depth comparison between different processes of summarization and imputation. I took a pragmatic approach, realizing that analysis of wearable device data often uses summaries within models. I found that the the order of summarization and imputation can have a large impact on the results of an analysis, and I developed a framework for choosing the best process for a given dataset. I am interested in continuing to work with wearable device data, but have taken a pause to focus on teaching."
+  },
+  {
+    "objectID": "teachings/BSTA_500_ptyhon.html",
+    "href": "teachings/BSTA_500_ptyhon.html",
+    "title": "Introduction to Python for Health Data Science",
+    "section": "",
+    "text": "Spring 2026\n\n\n\nThis class is an independent study for students who have learned R and R Studio in previous courses and want to learn Python.\nThe course will be structured around a series of lessons that cover the basics of Python programming, data manipulation, and data visualization. Each week, we will use a set of slides that served as lessons in R and translate them to Python. A student will be assigned different weeks to translate the slides and lead an informal lesson on Python."
   }
 ]
