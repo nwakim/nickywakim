@@ -3,7 +3,7 @@ title: "Biostatistics 1"
 description: "This course is an introduction to basic statistical methods for epidemiology students."
 date-meta: "2025-09-01"
 title-block-style: none
-image: "/images/Epi_525.png"
+image: "/images/Epi_525-1.png"
 format:
   html:
     link-external-newwindow: true
