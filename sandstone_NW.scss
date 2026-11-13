@@ -525,8 +525,12 @@ input,
   height: auto;
 }
 .teaching-table .teaching-title {
-  margin-top: 0;
+  font-size: 1.4em;
+  font-weight: 700;
   margin-bottom: 0.5em;
+}
+.teaching-table .teaching-description {
+  margin-bottom: 0.75em;
 }
 .teaching-quarters {
   display: flex;
