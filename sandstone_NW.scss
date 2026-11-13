@@ -559,9 +559,8 @@ input,
 }
 
 // Teaching table: shade each course's quarter bubbles so every quarter is
-// distinguishable. Bubbles are listed most recent first:
-//   1st = darker shade, 2nd = main color, 3rd = lighter tint, 4th+ = lightest
-// A course with only one quarter keeps the main color.
+// distinguishable. Bubbles are listed most recent first and cycle through
+// three shades: main color, lighter tint, lightest tint, then repeat.
 $teaching-bubble-colors: (
   "link-blue":   #5BAFF8,
   "link-orange": #EF883B,
@@ -571,11 +570,9 @@ $teaching-bubble-colors: (
 );
 @each $cls, $c in $teaching-bubble-colors {
   .teaching-quarters .#{$cls}.teaching-quarter {
-    &:nth-child(1)    { background-color: mix(black, $c, 22%); }
-    &:nth-child(2)    { background-color: $c; }
-    &:nth-child(3)    { background-color: mix(white, $c, 25%); }
-    &:nth-child(n+4)  { background-color: mix(white, $c, 36%); }
-    &:only-child      { background-color: $c; }
-    &:has(a:hover)    { background-color: mix(black, $c, 40%); }
+    &:nth-child(3n+1) { background-color: $c; }
+    &:nth-child(3n+2) { background-color: mix(white, $c, 20%); }
+    &:nth-child(3n+3) { background-color: mix(white, $c, 38%); }
+    &:has(a:hover)    { background-color: mix(black, $c, 25%); }
   }
 }
