@@ -6,6 +6,6 @@ format:
     toc: true
 ---
 
-Below is a copy of my CV:
+Below is a copy of my CV (updated November 11, 2026). You can also [download the PDF from GitHub](https://github.com/nwakim/cv/blob/main/cv/NWakim_CV_2026-11-11.pdf) or see [all versions](https://github.com/nwakim/cv/tree/main/cv).
 
-{{< pdf /cv/NWakim_CV_2026-06-23.pdf width=100% height=1000 >}}
+{{< pdf /cv/NWakim_CV_2026-11-11.pdf width=100% height=1000 >}}
