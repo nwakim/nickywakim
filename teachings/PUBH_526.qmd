@@ -9,6 +9,8 @@ format:
     link-external-newwindow: true
 quarter-style: link-blue
 quarters:
+  - label: "Fall 2026"
+    url: "https://nwakim.github.io/PUBH_523_26F/"
   - label: "Summer 2026"
     url: "https://nwakim.github.io/PUBH_523_26Su/"
   - label: "Summer 2025"
@@ -28,6 +30,13 @@ long-description: |
 ::: {.column width="65%"}
 
 ::: columns
+::: {.column width="25%"}
+::: link-blue
+[Fall 2026](https://nwakim.github.io/PUBH_523_26F/)
+:::
+:::
+::: {.column width="1%"}
+:::
 ::: {.column width="25%"}
 ::: link-blue
 [Summer 2026](https://nwakim.github.io/PUBH_523_26Su/) 
