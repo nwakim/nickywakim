@@ -2,6 +2,7 @@
 title: "CV"
 format: 
   html:
+    page-layout: full
     link-external-newwindow: true
     toc: true
 ---
