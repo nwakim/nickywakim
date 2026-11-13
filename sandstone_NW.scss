@@ -512,35 +512,41 @@ input,
   background-color: #EC6EA7;
 }
 // Teaching page listing (teaching-table.ejs)
+// Columns: icon | course | course sites (quarter bubbles) | description
+.teaching-table th {
+  font-weight: 700;
+  border-bottom-width: 2px;
+}
 .teaching-table td {
   vertical-align: top;
   padding-top: 1.25em;
   padding-bottom: 1.25em;
 }
 .teaching-table .teaching-image {
-  width: 160px;
+  width: 130px;
 }
 .teaching-table .teaching-image img {
-  max-width: 140px;
+  max-width: 115px;
   height: auto;
 }
-.teaching-table .teaching-title {
-  font-size: 1.4em;
+.teaching-table td.teaching-title {
+  width: 18%;
+  font-size: 1.2em;
   font-weight: 700;
+}
+.teaching-table .teaching-quarters {
+  width: 140px;
+}
+.teaching-table .teaching-quarter {
+  padding: 3px 10px 5px 10px;
   margin-bottom: 0.5em;
+  white-space: nowrap;
 }
 .teaching-table .teaching-description {
   margin-bottom: 0.75em;
 }
-.teaching-quarters {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5em;
-  margin-bottom: 0.75em;
-}
-.teaching-quarters .teaching-quarter {
-  min-width: 8em;
-  padding: 3px 10px 5px 10px;
+.teaching-table .teaching-description:last-child {
+  margin-bottom: 0;
 }
 .teaching-note {
   color: #EC6EA7;
