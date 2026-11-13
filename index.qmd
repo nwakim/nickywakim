@@ -21,7 +21,7 @@ Pronouns: she/her
 :::
 
 ::: g-col-5
-![](./images/N_Wakim.jpg){.rounded-image style="border-radius: 50%;"}
+![](./images/N_Wakim_2026.jpg){.rounded-image style="border-radius: 50%;"}
 :::
 :::::
 
