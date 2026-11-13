@@ -9,6 +9,8 @@ format:
     link-external-newwindow: true
 quarter-style: link-green
 quarters:
+  - label: "Fall 2026"
+    url: "https://nwakim.github.io/BSTA_550_26F/"
   - label: "Fall 2025"
     url: "https://nwakim.github.io/BSTA_550_25F/"
   - label: "Fall 2024"
@@ -30,6 +32,13 @@ long-description: |
 ::: {.column width="65%"}
 
 ::: columns
+::: {.column width="24%"}
+::: link-green
+[Fall 2026](https://nwakim.github.io/BSTA_550_26F/)
+:::
+:::
+::: {.column width="1%"}
+:::
 ::: {.column width="24%"}
 ::: link-green
 [Fall 2025](https://nwakim.github.io/BSTA_550_25F/) 
