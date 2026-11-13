@@ -13,29 +13,26 @@
     long-description:  full course description (falls back to description)
     note:              optional highlighted note shown above the description
 */
-%><table class="table teaching-table"><tbody><%
+%><table class="table teaching-table"><thead><tr><th class="teaching-image"></th><th class="teaching-title">Course</th><th class="teaching-quarters">Course sites</th><th class="teaching-info">Description</th></tr></thead><tbody><%
 for (const item of items) {
   const style = item['quarter-style'] || 'link-blue';
   const desc = String(item['long-description'] || item.description || '');
   const paras = desc.split(/\n\s*\n/).map(p => p.trim()).filter(p => p);
 %><tr><td class="teaching-image"><%
   if (item.image) {
-%><a href="<%= item.path %>"><img src="<%= item.image %>" alt="<%= item.title %>"></a><%
+%><img src="<%= item.image %>" alt="<%= item.title %>"><%
   }
-%></td><td class="teaching-info"><div class="teaching-title"><a href="<%= item.path %>"><%= item.title %></a></div><%
-  if (item.quarters && item.quarters.length) {
-%><div class="teaching-quarters"><%
-    for (const q of item.quarters) {
+%></td><td class="teaching-title"><%= item.title %></td><td class="teaching-quarters"><%
+  for (const q of (item.quarters || [])) {
 %><div class="<%= style %> teaching-quarter"><%
-      if (q.url) {
+    if (q.url) {
 %><a href="<%= q.url %>" target="_blank" rel="noopener"><%= q.label %></a><%
-      } else {
+    } else {
 %><%= q.label %><%
-      }
-%></div><%
     }
 %></div><%
   }
+%></td><td class="teaching-info"><%
   if (item.note) {
 %><div class="teaching-note"><strong><%= item.note %></strong></div><%
   }
