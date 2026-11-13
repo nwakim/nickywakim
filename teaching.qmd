@@ -6,10 +6,10 @@ format:
     page-layout: full
     listing: 
       contents: teachings
-      type: table
-      fields: [image, title, description]
-      image-height: "100px"
+      template: teaching-table.ejs
       sort: "date-meta desc"
+      sort-ui: false
+      filter-ui: false
 ---
 
-Courses are ordered by quarter and year offered. The most recent courses appear at the top.
+Courses are ordered by quarter and year offered. The most recent courses appear at the top. Click a quarter to visit that offering's course site.

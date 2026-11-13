@@ -511,3 +511,39 @@ input,
 .link-pink:has(a:hover) {
   background-color: #EC6EA7;
 }
+// Teaching page listing (teaching-table.ejs)
+.teaching-table td {
+  vertical-align: top;
+  padding-top: 1.25em;
+  padding-bottom: 1.25em;
+}
+.teaching-table .teaching-image {
+  width: 160px;
+}
+.teaching-table .teaching-image img {
+  max-width: 140px;
+  height: auto;
+}
+.teaching-table .teaching-title {
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+.teaching-quarters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  margin-bottom: 0.75em;
+}
+.teaching-quarters .teaching-quarter {
+  min-width: 8em;
+  padding: 3px 10px 5px 10px;
+}
+.teaching-note {
+  color: #EC6EA7;
+  margin-bottom: 0.5em;
+}
+@media (max-width: 576px) {
+  .teaching-table .teaching-image {
+    display: none;
+  }
+}

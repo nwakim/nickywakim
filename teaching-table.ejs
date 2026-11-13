@@ -1,0 +1,44 @@
+<%
+// Custom listing template for teaching.qmd.
+// Each course page (teachings/*.qmd) can set these front matter fields:
+//   quarters:          list of {label, url}; url is optional (no link if missing)
+//   quarter-style:     CSS class for the quarter bubbles (link-blue, link-green, ...)
+//   long-description:  full course description (falls back to description)
+//   note:              optional highlighted note shown above the description
+%>
+<table class="table teaching-table">
+  <tbody>
+  <% for (const item of items) { %>
+    <tr>
+      <td class="teaching-image">
+        <% if (item.image) { %>
+          <a href="<%- item.path %>"><img src="<%- item.image %>" alt="<%= item.title %>"></a>
+        <% } %>
+      </td>
+      <td class="teaching-info">
+        <h3 class="teaching-title"><a href="<%- item.path %>"><%= item.title %></a></h3>
+        <% if (item.quarters && item.quarters.length) { %>
+          <div class="teaching-quarters">
+          <% for (const q of item.quarters) { %>
+            <div class="<%= item['quarter-style'] || 'link-blue' %> teaching-quarter">
+              <% if (q.url) { %>
+                <a href="<%- q.url %>" target="_blank" rel="noopener"><%= q.label %></a>
+              <% } else { %>
+                <%= q.label %>
+              <% } %>
+            </div>
+          <% } %>
+          </div>
+        <% } %>
+        <% if (item.note) { %>
+          <p class="teaching-note"><strong><%= item.note %></strong></p>
+        <% } %>
+        <% const desc = String(item['long-description'] || item.description || ''); %>
+        <% for (const para of desc.split(/\n\s*\n/)) { if (para.trim()) { %>
+          <p class="teaching-description"><%= para.trim() %></p>
+        <% } } %>
+      </td>
+    </tr>
+  <% } %>
+  </tbody>
+</table>
