@@ -6,6 +6,14 @@ title-block-style: none
 format:
   html:
     link-external-newwindow: true
+quarter-style: link-blue
+quarters:
+  - label: "Spring 2026"
+    url: "https://nwakim.github.io/BSTA_500_26S/"
+long-description: |
+  This class is an independent study for students who have learned R and R Studio in previous courses and want to learn Python.
+
+  The course will be structured around a series of lessons that cover the basics of Python programming, data manipulation, and data visualization. Each week, we will use a set of slides that served as lessons in R and translate them to Python. A student will be assigned different weeks to translate the slides and lead an informal lesson on Python.
 ---
 
 ::: columns

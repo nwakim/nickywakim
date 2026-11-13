@@ -7,6 +7,16 @@ image: "/images/bsta_512_hex.png"
 format:
   html:
     link-external-newwindow: true
+quarter-style: link-green2
+quarters:
+  - label: "Winter 2026"
+    url: "https://nwakim.github.io/BSTA_512_26W/"
+  - label: "Winter 2025"
+    url: "https://nwakim.github.io/BSTA_512_W25/"
+  - label: "Winter 2024"
+    url: "https://nwakim.github.io/W2024_BSTA_512/"
+long-description: |
+  In this course, we will focus on linear models, and build our understanding of regression analysis. We will build some theoretical understanding in order to interpret and apply regression models appropriately. We will learn how to build a regression model, interpret the model, and diagnose potential issues with our model.
 ---
 
 :::::: columns

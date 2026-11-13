@@ -7,6 +7,16 @@ image: "/images/bsta_550_hex_3.png"
 format:
   html:
     link-external-newwindow: true
+quarter-style: link-green
+quarters:
+  - label: "Fall 2025"
+    url: "https://nwakim.github.io/BSTA_550_25F/"
+  - label: "Fall 2024"
+    url: "https://nwakim.github.io/BSTA_550_F24/"
+  - label: "Fall 2023"
+    url: "https://nwakim.github.io/F2023_BSTA_550/"
+long-description: |
+  This course is designed to introduce history, concepts and distributions in probability, Monte Carlo simulation techniques, and Markov chains. Students will also learn how to write R codes for various statistical computations and plots. Previous experience in R is not required. R is free software available from http://www.r-project.org.
 ---
 
 :::::: columns
